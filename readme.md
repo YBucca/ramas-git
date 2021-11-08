@@ -1,1 +1,1 @@
-"Estoy en la rama Rojo".
+"Cambios en la rama rojo que se van a agregar a la rama main".
