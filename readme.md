@@ -1,2 +1,1 @@
-https://github.com/malerey/ejercicios-ramas-pr
-"Estoy en la rama Main".
+"Cambios en la rama rojo que se van a agregar a la rama main".
