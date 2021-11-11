@@ -1,2 +1,1 @@
-"Estoy en la rama Verde".
-"Cambio en la rama verde después de haberla subido a github".
+"Cambios en la rama verde que se van a agregar a la rama main".
